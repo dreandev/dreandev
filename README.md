@@ -22,4 +22,4 @@
 </p>
 
 ## Contact ✉︎:
-- 💌 Want to know more or collaborate? Contact me at [kamilagrust@gmail.com](mailto:kamilagrust@gmail.com) !
+💌 Want to know more or collaborate? Contact me at [kamilagrust@gmail.com](mailto:kamilagrust@gmail.com) !
