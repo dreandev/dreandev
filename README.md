@@ -1,4 +1,4 @@
-### Hi 🐭 Welcome to Kami's profile! 
+### Welcome to Kami's profile! 🐭
 ---
 ## About me ★:
 
