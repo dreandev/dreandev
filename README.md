@@ -4,7 +4,7 @@
 ## About me ★:
 
  I am a 23-year-old Software Developer currently focusing on frontend structure and design, working extensively with React on two projects alongside [@toniles](https://github.com/toniles) 🐔.
- In addition to these projects, I am finalizing my studies in Web Application Development, where I am completing an internship at a company that uses Angular 16, primarily focusing on the frontend sector.
+ In addition to these projects, I am working full-time at a company where I specialize in the frontend sector, developing 3D model configurators. I use libraries like Three.js to create interactive and dynamic applications.
 
 <p align="center">
   <img src="https://media.tenor.com/00JNBT9O3IYAAAAi/bunny-laptop.gif" alt="Coding GIF">
@@ -43,4 +43,4 @@
 </p>
 
 ## Contact ✉︎:
-💌 Want to know more or collaborate? Contact me at [kamilagrust@gmail.com](mailto:kamilagrust@gmail.com) !
+💌 Want to know more or collaborate? Contact me at [kamiladevelop@gmail.com](mailto:kamila.develop@gmail.com) !
